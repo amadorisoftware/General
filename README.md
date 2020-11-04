@@ -1,4 +1,4 @@
-# Main
+# General
 # What is Amadori Software?
 
 Amadori Software is a project born in February 2020. One of the first sites to provide was "Amadori's Restaurant" born as a joke. The project was then abandoned in March 2020. 
